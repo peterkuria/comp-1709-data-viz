@@ -15,3 +15,6 @@ Data visualisation helps us to understand the data/statistics
 
 The main reason we prefer Python/ R over Excel, for data visualisation is because, in the latter, Xls, data is not transferable.
 In python we use libraries like MatPlotLip and Pandas for DV. 
+
+## Tools 
+There are many opensource tools used for machine learning and data analysis. Some of the tools for data visualisation are Python or R. 
