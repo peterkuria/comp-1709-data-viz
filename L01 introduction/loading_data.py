@@ -36,3 +36,7 @@ plt.ylabel('y')
 plt.title('Interesting Graph\nCheck it out')
 plt.legend()
 plt.show()
+
+"""
+The result should be the same graph. Later on, we can utilize NumPy to do some more work for us when we load the data in, but that is content for a future tutorial! Just like with the csv module not needing a .csv specifically, the loadtxt function does not require the file to be a .txt file, it could be a .csv, and it can even be a python list object!
+"""
