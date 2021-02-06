@@ -1,6 +1,8 @@
 # aving a title to the graph, labels on the axis, and a legend that explains what each line
 
 import matplotlib.pyplot as plt
+import pandas as pd
+
 
 """
 With plt.xlabel and plt.ylabel, we can assign labels to 
@@ -16,6 +18,7 @@ x2 = [1,2,3]
 y2 = [10,14,12]
 
 # plt.plot(x,y) # without labels
+
 plt.plot(x, y, label='First Line')
 plt.plot(x2, y2, label='Second Line')
 # plt.show()
