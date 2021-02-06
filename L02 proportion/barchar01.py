@@ -8,7 +8,7 @@ y2 = [7,8,2,4,2]
 
 #plt.bar([1,3,5,7,9],[5,2,7,8,2], label="Example one")
 plt.bar(x, y, label='bars1', color='#42f554')
-plt.bar(x, y, label='bar2')
+plt.bar(x2, y2, label='bar2', color='c')
 
 
 plt.xlabel('x')
